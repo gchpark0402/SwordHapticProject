@@ -24,4 +24,10 @@ https://github.com/gchpark0402/Photon_Arduino
 
 ### Hardware
 
+* 장비 착용시 Optitrack marker나 Oculus를 착용하여 사용자의 움직임을 tracking
+* 칼의 움직임을 tracking 장비를 통해 가상 현실에 전달하고 칼이 물체와 닿았다면 아두이노를 통해 신호를 받고, 솔레노이드를 가동
+* 평소에는 줄자처럼 자유롭게 움직였지만 솔레노이드가 가동하면 물레바퀴에 제동이 걸려 칼이 움직이지 못함
+* 솔레노이드가 작동함과 동시에 물레바퀴에 제동이 걸려 실이 팽팽해지고 사용자에게 반발력을 제공하여 마치 물체와 부딪힌 것과 같은 느낌을 제공함
 
+  
+![hardware구조](https://github.com/user-attachments/assets/8dcbe207-9d5f-46a9-a0c7-7d74c2931b71)
